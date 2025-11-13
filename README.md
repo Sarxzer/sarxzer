@@ -18,4 +18,4 @@ I embrace chaos in code, experiments, and life, and I’m always learning, break
 <!-- Shields / badges -->  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarxzer&show_icons=true&theme=radical)]()  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarxzer&layout=compact&theme=radical)]()  
-[[![Chaos Level](https://img.shields.io/badge/Chaos-Level-9000-brightgreen)]()](https://img.shields.io/badge/chaos_Level-9999-pink)
+[![Chaos Level](https://img.shields.io/badge/chaos_Level-9000-purple)]()
