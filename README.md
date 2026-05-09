@@ -1,21 +1,23 @@
-# Hey there, I'm Sarxzer 👋  
+# hi, i'm sarxzer
 
-18-year-old French dev embracing chaos, cats, and retro consoles.  
-I started coding during the COVID-19 lockdown with a Scratch math book… now I’m building websites, editors, terminal apps, and occasionally blowing stuff up (metaphorically… usually). 😏  
+french dev, 18, into tech since the covid lockdown.
+i build websites, terminal tools, and self-hosted nonsense on a VPS i named Skynet.
+yes, that Skynet. no, i don't see the problem.
 
-**Languages & Tools:** Python, PHP, JavaScript, Arduino, HTML, CSS, a pinch of French flair 🇫🇷  
+**what i use:** PHP, Python, JS, HTML/CSS, MySQL, Arduino, maybe C++
 
-**Projects I’m proud of:**  
-- [**My Website**](https://github.com/sarxzer/sarxzer.xyz) – Learned HTML, CSS, PHP, and MySQL to create my chaotic corner of the web.  
-- [**CC: Blockly Editor**](https://github.com/Sarxzer/cc-blockly-editor) – A code editor powered by Blockly… chaos guaranteed.  
-- [**ROM.py**](https://github.com/Sarxzer/rom.py) – Terminal-based ROM browser & downloader written in Python using curses.  
+**stuff i've made:**
+- [sarxzer.xyz](https://github.com/sarxzer/sarxzer.xyz) ... my little corner of the web
+- [CC: Blockly Editor](https://github.com/Sarxzer/cc-blockly-editor) ... visual editor for ComputerCraft
+- [Innerspace](https://github.com/Sarxzer/innerspace) ... system tracking app for plural folks
 
-**Other passions:** Retro console collector 🎮, cat enthusiast 🐾, soldering & electronics tinkerer ⚡  
+trans enby furry alien nerd. loves: cats, consoles, her PC.
+hates: terrorists, and herself (work in progress).
 
-AI believer—powerful tool, but only as strong as the person using it.  
-I embrace chaos in code, experiments, and life, and I’m always learning, breaking, and building.  
+yeah i use AI. so does everyone. most of my stuff is actually mine though,
+except some python repos i refuse to maintain. you'll know which ones.
 
-<!-- Shields / badges -->  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarxzer&show_icons=true&theme=radical)]()  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarxzer&layout=compact&theme=radical)]()  
-[![Chaos Level](https://img.shields.io/badge/chaos_Level-9000-purple)]()
+audhd. that's it. that's the explanation for all of this.
+
+also i'm a believer in the butter religion. my friend is the butter god itself.
+go check it out: [beurreland.cc](https://beurreland.cc)
