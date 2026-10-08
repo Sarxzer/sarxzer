@@ -18,3 +18,5 @@ audhd. that's it. that's the explanation for all of this.
 
 also i'm a believer in the butter religion. my friend is the butter god itself.
 go check it out: [beurreland.cc](https://beurreland.cc)
+
+![Static Badge](https://img.shields.io/badge/help_me-buy_me_a_coffee-%23FFDD00?logo=buymeacoffee&logoColor=%23FFDD00&link=https%3A%2F%2Fbuymeacoffee.com%2Fsarxzer)
