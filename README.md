@@ -9,13 +9,10 @@ yes, that Skynet. no, i don't see the problem.
 **stuff i've made:**
 - [sarxzer.xyz](https://github.com/sarxzer/sarxzer.xyz) ... my little corner of the web
 - [CC: Blockly Editor](https://github.com/Sarxzer/cc-blockly-editor) ... visual editor for ComputerCraft
-- [Innerspace](https://github.com/Sarxzer/innerspace) ... system tracking app for plural folks
+- [plrsys](https://github.com/plrworks/plrsys) ... system tracking app for plural folks
 
 trans enby furry alien nerd. loves: cats, consoles, her PC.
 hates: terrorists, and herself (work in progress).
-
-yeah i use AI. so does everyone. most of my stuff is actually mine though,
-except some python repos i refuse to maintain. you'll know which ones.
 
 audhd. that's it. that's the explanation for all of this.
 
